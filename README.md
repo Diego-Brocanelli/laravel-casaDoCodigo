@@ -1,5 +1,5 @@
 # laravel-casaDoCodigo
-Projeto desenvolvido tendo como base o livro - [PHP e Laravel: Crie aplicações web como um verdadeiro artesão](www.casadocodigo.com.br/products/livro-laravel-php) da editora Casa do Código.
+Projeto desenvolvido tendo como base o livro - [PHP e Laravel: Crie aplicações web como um verdadeiro artesão](http://www.casadocodigo.com.br/products/livro-laravel-php) da editora Casa do Código.
 
 #### Banco de dados
 ```sh
