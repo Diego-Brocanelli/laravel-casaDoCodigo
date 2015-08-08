@@ -1,5 +1,12 @@
-# laravel-casaDoCodigo
+# Laravel-casaDoCodigo
 Projeto desenvolvido tendo como base o livro - [PHP e Laravel: Crie aplicações web como um verdadeiro artesão](http://www.casadocodigo.com.br/products/livro-laravel-php) da editora Casa do Código.
+
+# Server Requirements
+* PHP >= 5.4
+* Mcrypt PHP Extension
+* OpenSSL PHP Extension
+* Mbstring PHP Extension
+* Tokenizer PHP Extension
 
 #### Banco de dados
 ```sh
