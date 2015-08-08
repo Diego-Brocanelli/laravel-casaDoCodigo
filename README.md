@@ -1,5 +1,12 @@
 # laravel-casaDoCodigo
 Projeto desenvolvido tendo como base o livro - [PHP e Laravel: Crie aplicações web como um verdadeiro artesão](www.casadocodigo.com.br/products/livro-laravel-php) da editora Casa do Código.
+
+#### Banco de dados
+```sh
+Database name: estoque_laravel
+File: dump.sql
+```
+
 # Instalar o framework
 ```sh
 composer install
@@ -15,6 +22,7 @@ php artisan serve
 * Trabalhando com a view
 * Parâmetros da request e URL
 * Views mais flexíveis e poderosas
+
 # @TODO
 * Request e métodos HTTP
 * Eloquent ORM
